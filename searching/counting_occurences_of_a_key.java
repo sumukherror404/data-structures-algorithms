@@ -1,3 +1,4 @@
+/*linear search algorithm to find the number of occurences of a particular element in the given list of numbers*/
 import java.util.Scanner;
 public class Main{
     public static void main(String[] args){
