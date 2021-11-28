@@ -18,6 +18,6 @@ public class Main{
                 value++;
             }
         }
-        System.out.println(value);
+        System.out.println("The squareroot of the given number is"+value);
     }
 }
